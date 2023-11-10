@@ -1,5 +1,5 @@
 let xhr = new XMLHttpRequest();
-xhr.open("POST", "https://california-state-police.lac.tf/flag");
+xhr.open("GET", "http://localhost:3000");
 xhr.setRequestHeader("Accept", "*/*");
 
 xhr.onreadystatechange = function () {
