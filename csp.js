@@ -1,5 +1,5 @@
 let xhr = new XMLHttpRequest();
-xhr.open("GET", "http://localhost:3000");
+xhr.open("GET", "http://localhost:3000/modify");
 xhr.setRequestHeader("Accept", "*/*");
 
 xhr.onreadystatechange = function () {
